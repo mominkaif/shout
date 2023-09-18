@@ -5,7 +5,8 @@ export default function App() {
   console.log("APP Running");
   return (
     <View style={styles.container}>
-      <Text>YUVRAJ</Text>
+      <Text>SHOUT</Text>
+      <Text>This is the first feature branch, testing commits and proper Usage of SDLC</Text>
       <StatusBar style="auto" />
     </View>
   );
